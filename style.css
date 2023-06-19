@@ -34,3 +34,7 @@ input{
   border-radius: 70px 70px 70px 70px;
   box-shadow: 0 5px 8px 3px gray;
 }
+.small-box{
+  border-radius: 20px 20px 20px 20px;
+  height: 200px;
+}
