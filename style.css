@@ -1,6 +1,10 @@
+body{
+  overflow-x: hidden;
+}
+
 .side-navi{
   background-color: #76c6d1;
-  margin-right: -52px; 
+  /* margin-right: -52px;  */
   border-radius: 100px 0px 0px 100px;
 }
 .color{
@@ -37,7 +41,7 @@ input{
 .search-btn{
   position: absolute;
   top: 19px;
-  right: 706px;
+  right: 637px;
   width: 50px;
   height: 100px;
   border-radius: 50%;
