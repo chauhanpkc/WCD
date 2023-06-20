@@ -6,8 +6,23 @@
 .color{
   background-color: #76c6d1;
 }
+.color1{
+  background-color: #b6bcec;
+}
+.color2{
+  color: #f4b707;
+  background-color: #fbe4a3;
+}
+.color3{
+  background-color: #d6e4a5;
+  color: #8fb70c;
+}
+.color4{
+  background-color: #e7a1ff;
+  color: #bd00ff;
+}
 .color-text{
-  color: #76c6d1;
+  color: #44afc3;
 }
 input{
   width: 100%;
@@ -37,4 +52,24 @@ input{
 .small-box{
   border-radius: 20px 20px 20px 20px;
   height: 200px;
+}
+.vr1{
+  border-left: 3px solid #008ffb;
+  height: 71px;
+}
+.vr2{
+  border-left: 3px solid #00e396;
+  height: 71px;
+}
+.vr3{
+  border-left: 3px solid #feb019;
+  height:  71px;
+}
+.vr4{
+  border-left: 3px solid #ff4560;
+  height: 82px;
+}
+.vr5{
+  border-left: 3px solid #775dd0;
+  height: 71px;
 }
